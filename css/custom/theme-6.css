@@ -1,0 +1,88 @@
+
+
+/*============
+
+This file only contains the theme color schemes, (not the style ) If you want to change the color schemes
+of the theme 
+just change the color code  and rgba value. The whole theme color will be changed.
+
+===========*/
+
+
+
+
+
+/* Filter the 'background' value classes*/
+
+.switcher .switch_btn button,.style-one,.btn-one,.title-text:before,.feature-section .single-item 
+.single-content .icon-box,.sec-title h2:before,.owl-theme .owl-controls .owl-nav [class*="owl-"]:hover,
+.testimonial-section .img-box:before,.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots 
+.owl-dot:hover span,.our-team .team-content .team-social li a:hover, .our-team .team-content 
+.team-social li a.active,.news-section .single-item .news-content .date,.news-section .single-item:hover 
+.news-content h4 a:before,.main-footer .subscribe-widget .input-box button,.main-footer .subscribe-widget 
+.footer-social li a:hover, .main-footer .subscribe-widget .footer-social li a.active,
+.team-page .single-item .lower-content .team-social li a:hover, .team-page .single-item .lower-content 
+.team-social li a.active,.main-slider .btn-two:hover,.accordion-box .accordion .acc-btn.active .acc-title,
+.link-btn li a:hover, .link-btn li a.active,.blog-details .post-share-option .post-social li a.active, .blog-details 
+.post-share-option .post-social li a:hover,.blog-details .post-share-option .post-social li a.active, .blog-details 
+.post-share-option .post-social li a:hover,.main-menu .navbar-header .navbar-toggle .icon-bar,.scroll-to-top,
+.header-search button
+
+{
+	background: #7fb402;
+}
+
+
+/* background style two */
+
+
+
+/* Filter the 'color' value classes*/
+
+.header-upper .top-left li i:before,.header-upper .top-right .social-top li a:hover,
+.main-menu .navigation > li:hover > a,.main-menu .navigation > li.current > a,.main-menu .navigation > 
+li > ul > li:hover > a,.sec-title span,.service-section .three-column-carousel .single-item .icon-box 
+i:before,span,.ui-menu .ui-menu-item-wrapper:hover,.news-section .single-item .news-content .meta 
+li:first-child,h5 a:hover, h6 a:hover, h4 a:hover, h4 a:hover,.main-footer .link-widget li a:hover, 
+.main-footer .service-widget li a:hover,.footer-bottom a,.bread-crumb .text,.about-section 
+.about-content .list li:before,.service-style-tow .service-content .icon-box i:before,
+.main-menu .navbar-collapse > ul li.dropdown.current .dropdown-btn span:before,
+.main-menu .navbar-collapse > ul li.dropdown:hover .dropdown-btn span:before,.service-details .sidebar 
+.sidebar-list a.active,.service-details .sidebar .sidebar-list a.active:before,.service-details 
+.sidebar-details .content-style-two .list li:before,.gallery-section h5,.single-item .img-box .overlay 
+.box .content a i,.error-section .error-title,.blog-page .sidebar-catagories .sidebar-list a.active,
+.blog-page .sidebar-catagories .sidebar-list a.active:before,.contact-info .single-item .icon-box i:before
+
+{
+	color:#7fb402;
+}
+
+/* Filter the 'border color' value classes*/
+
+.main-menu .navigation > li > ul,.main-menu .navigation > li > ul > li > a,.main-slider .btn-one,
+.owl-theme .owl-controls .owl-nav [class*="owl-"]:hover,.our-team .team-content .team-social li a:hover, 
+.our-team .team-content .team-social li a.active,.main-footer .subscribe-widget .footer-social li a:hover,
+.main-footer .subscribe-widget .footer-social li a.active,.main-slider .btn-two:hover,input:focus, textarea:focus,
+.accordion-box .accordion .acc-btn.active .acc-title,.link-btn li a:hover, .link-btn li a.active,.blog-details 
+.post-share-option .post-social li a.active, .blog-details .post-share-option .post-social li a:hover,.link-btn li a.active,
+.blog-details .post-share-option .post-social li a.active, .blog-details .post-share-option .post-social li a:hover,
+.header-search .search input[type="text"], .header-search input[type="search"],.header-search button
+
+{
+  border-color:#7fb402;
+}
+
+
+
+
+
+
+/* change the theme logo for your own color schemes */
+
+.logo-box {
+    background: url(../../images/logo/logo5.png) no-repeat 9% 100%;
+}
+
+.footer-logo{
+  background: url(../../images/footer/logo5.png) no-repeat 9% 100%;
+}
